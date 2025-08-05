@@ -4,9 +4,13 @@ Hi! I'm Thota Jaya Satya Lakshmi, a passionate and driven final-year B.Tech stud
 
 ## 🚀 Skills & Interests
   👨‍💻 Programming Languages:C, Java, Python, JavaScript, HTML, CSS, SQL
+  
   🌐 Web Development:React.js, React Native, Node.js, Express.js
+  
   🧩 Frameworks & Libraries:Django, NumPy, Pandas
+  
   📊 Databases:MongoDB, MySQL
+  
   📚 Core Subjects:Data Structures, Operating Systems (Unix/Windows), DBMS, OOP, Computer Networks
 
 ## 🧪 Projects
